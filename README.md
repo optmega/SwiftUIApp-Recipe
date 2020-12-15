@@ -1,1 +1,6 @@
 # SwiftUIApp-Recipe
+![screenshot](https://github.com/optmega/SwiftUIApp-Recipe/blob/main/Screenshot.PNG?raw=true)
+
+Recipes app is written in SwiftUI using Single State Container
+
+This app implemented as an example of a Single State Container concept. It is based on my blog posts and some additional techniques.
